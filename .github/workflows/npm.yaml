@@ -1,4 +1,4 @@
-on: push
+run on: push
 
 jobs:
   publish:
